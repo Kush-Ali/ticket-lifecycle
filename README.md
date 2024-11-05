@@ -20,7 +20,7 @@
   <img src="https://github.com/user-attachments/assets/c12722fc-7bb1-4f18-9829-4f5c84d92e9a" height="80%" width="80%" alt="Admin Login Image"/>
 </p>
 
-<p><strong>Step 1: Admin/Analyst Login</strong>: I started by accessing the osTicket Admin Panel via <a href="http://localhost/osTicket/scp/login.php">http://localhost/osTicket/scp/login.php</a>. The end-user osTicket URL is <a href="http://localhost/osTicket/open.php">http://localhost/osTicket</a>. For this lab, I simulated ticket creation as an end-user and worked on those tickets as a help desk agent.</p>
+<p><strong>Step 1: Admin/Analyst Login</strong>: I started by accessing the osTicket Admin Panel and created a help desk agent. For this lab, I simulated ticket creation as an end-user and worked on those tickets as a help desk agent.</p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/dce9e366-640b-4d40-bbd7-69127318fd35" height="80%" width="80%" alt="Create Ticket Image"/>
@@ -35,7 +35,7 @@
 </p>
 
 
-<p><strong>Step 2: Create a Ticket as an End User</strong>: I created a ticket as an end-user reporting that the entire mobile/online banking system was down. Then, as the help desk agent (Pablo), I observed the ticket’s properties, including Priority, Department, SLA, and Assigned To.</p>
+<p><strong>Step 2: Create a Ticket as an End User</strong>: I created a ticket as an end-user reporting that the entire mobile/online banking system was down. Then, as the help desk agent (John), I observed the ticket’s properties, including Priority, Department, SLA, and Assigned To.</p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8c6ce041-a9fe-4746-8e8d-0123671c73ff" height="80%" width="80%" alt="Set Ticket Properties Image"/>
@@ -45,7 +45,7 @@
   <img src="https://github.com/user-attachments/assets/b116059d-f7a5-40d2-8534-0fb6f0e7b3ee" height="80%" width="80%" alt="Set Ticket Properties Image"/>
 </p>
 
-<p><strong>Step 3: Set Ticket Properties</strong>: As the help desk agent (Pablo), I set the ticket properties as follows: SLA - Sev-A (1 hour, 24/7), Help Topic - Report a Problem / Business Critical Outage, and I assigned the ticket to the Online Banking Team. Then, as David (a member of the Online Banking Team and SysAdmin), I worked the ticket to completion.</p>
+<p><strong>Step 3: Set Ticket Properties</strong>: As the help desk agent (John), I set the ticket properties as follows: SLA - Sev-A (1 hour, 24/7), Help Topic - Report a Problem / Business Critical Outage. Then, as John (a member of the Online Banking Team and SysAdmin), I worked the ticket to completion.</p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/49015c34-7e88-423f-a3af-efbe7afda002" height="80%" width="80%" alt="New Ticket Image"/>
@@ -55,7 +55,7 @@
   <img src="https://github.com/user-attachments/assets/9a30676a-7fd9-4fe6-a410-55ad9366ffa9" height="80%" width="80%" alt="New Ticket Image"/>
 </p>
 
-<p><strong>Step 4: Create Another Ticket</strong>: I created another ticket as an end-user, stating that the accounting department needed an Adobe upgrade. As Pablo, the help desk agent, I observed the ticket properties, set the SLA to Sev-C (8 hours, business hours), and assigned the ticket to the Support department. I then worked the ticket to completion as John.</p>
+<p><strong>Step 4: Create Another Ticket</strong>: I created another ticket as an end-user, stating that the accounting department needed an Adobe upgrade. As John, the help desk agent, I observed the ticket properties, set the SLA to Sev-C (8 hours, business hours), and assigned the ticket to the Support department. I then worked the ticket to completion.</p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/4469876e-e6a5-45e1-a220-d1071983e49d" height="80%" width="80%" alt="CFO Laptop Ticket Image"/>
@@ -65,6 +65,6 @@
   <img src="https://github.com/user-attachments/assets/1ee875b3-0dec-4224-8079-077e643ebd5c" height="80%" width="80%" alt="CFO Laptop Ticket Image"/>
 </p>
 
-<p><strong>Step 5: Create a Third Ticket</strong>: As an end-user, I created a third ticket reporting that the CFO’s laptop would no longer turn on. As the help desk agent (John), I observed the ticket properties, set the SLA to Sev-C (8 hours, business hours), and assigned the ticket to the Support department. I then worked the ticket to completion as John.</p>
+<p><strong>Step 5: Create a Third Ticket</strong>: As an end-user, I created a third ticket reporting that the CFO’s laptop would no longer turn on. As the help desk agent (John), I observed the ticket properties, set the SLA to Sev-C (8 hours, business hours), and assigned the ticket to the Support department. I then worked the ticket to completion.</p>
 
 <p><strong></strong> In this lab, I learned how to create tickets, assign SLAs, departments, and teams, and manage ticket escalations. This practice helps improve workflow and ticket management skills in real-world help desk scenarios.</p>
